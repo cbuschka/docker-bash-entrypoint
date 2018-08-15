@@ -1,5 +1,8 @@
 # Bash based docker entrypoint with signal forwarding
 
-### License
+Original [repository](https://github.com/cbuschka/docker-bash-entrypoint) at github.
 
-[MIT](./license.txt)
+## License
+Written by [Cornelius Buschka](https://github.com/cbuschka).
+
+[MIT License](./license.txt)
